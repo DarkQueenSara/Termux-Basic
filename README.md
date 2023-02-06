@@ -3,89 +3,90 @@ Termux basic command
 
 
 
-# install
+# Installation 
 
 git clone https://github.com/DarkQueenSara/Termux-Basic
 
 cd Termux-Basic 
 
-python termux-basic.py
+python Termux-basic.py
 
 
 
 # List
-[01] python
 
-[02] python2
+python
 
-[03] python-dev
+python2
 
-[04] python3
+python-dev
 
-[05] php
+python3
 
-[06] java
+php
 
-[07] git
+java
 
-[08] perl
+git
 
-[09] bash
+perl
 
-[10] nano
+bash
 
-[11] curl
+nano
 
-[12] openssl
+curl
 
-[13] openssh
+openssl
 
-[14] wget
+openssh
 
-[15] clang
+wget
 
-[16] nmap
+clang
 
-[17] w3m
+nmap
 
-[18] hydra
+w3m
 
-[19] ruby
+hydra
 
-[20] macchanger
+ruby
 
-[21] host
+macchanger
 
-[22] dnsutils
+host
 
-[23] coreutils
+dnsutils
 
-[24] fish
+coreutils
 
-[25] zip
+fish
 
-[27] tor
+zip
 
-[28] hydra
+tor
 
-[29] figlet
+hydra
 
-[30] cowsay
+figlet
 
-[31] tar
+cowsay
 
-[32] unzip
+tar
 
-[33] vim
+unzip
 
-[34] ruby
+vim
 
-[35] wcalc
+ruby
 
-[36] bmon
+wcalc
 
-[37] unrar
+bmon
 
-[38] proot
+unrar
 
-[39] golang
+proot
+
+golang
