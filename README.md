@@ -2,6 +2,17 @@
 Termux basic command 
 
 
+
+# install
+
+git clone https://github.com/DarkQueenSara/Termux-Basic
+
+cd Termux-Basic 
+
+python termux-basic.py
+
+
+
 # List
 [01] python
 
